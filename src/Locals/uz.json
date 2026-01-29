@@ -4,5 +4,80 @@
         "about":"Biz haqimizda",
         "contact":"Aloqa",
         "tours":"Turlar"
+    },
+     "hero": {
+    "title": "Sayohat qilishni xohlaysizmi?",
+    "subtitle": "Sayohat orzularingizni haqiqatga aylantiring: rejalashtiring, kashf eting va unutilmas xotiralar yarating.",
+    "learnMore": "Batafsil",
+    "form": {
+      "name": "Ismingiz...",
+      "address": "Manzilingiz...",
+      "book": "Joy band qilish"
     }
+  },
+  "destinations": {
+    "sectionTitle": "Bizning mashhur manzillarimiz",
+    "sectionSubtitle": "Dubay, Turkiya, Sharm El Sheyhni biz bilan kashf eting",
+    "cards": [
+      {
+        "title": "Dubayda hashamatni his eting",
+        "subtitle": "Shahar va sahro uyg'unligi",
+        "desc": "Dubayning osmono'par binolari, hashamatli xaridlari va cho'l sarguzashtlarining boyligidan zavqlaning. Madaniyat va isrofgarchilikning ajoyib uyg'unligini taklif qiluvchi shaharni o'rganing."
+      },
+      {
+        "title": "Turkiya madaniyatini kashf eting",
+        "subtitle": "Tarixiy mo'jizalar va hayratlanarli manzaralar",
+        "desc": "Turkiyaning qadimiy xarobalardan tortib jonli bozorlarigacha bo'lgan jozibali tarixiga sho'ng'ing. Mazali taomlar va samimiy mehmondo'stlikdan rohatlaning."
+      },
+      {
+        "title": "Sharm El-Sheyhkda dam oling",
+        "subtitle": "Quyosh, dengiz va osoyishtalik",
+        "desc": "Sharm al-Shayxning ajoyib plyajlari va marjon riflariga boring. Tiniq suvlarga sho'ng'ing va tropik jannatda unutilmas dam oling."
+      }
+    ],
+    "buttons": {
+      "more": "KO'PROQ BILISH",
+      "book": "BAND QILISH"
+    }
+  },
+  "services": {
+    "label": "Bizning xizmatlarimiz",
+    "title": "Ishonch bilan sayohat qiling",
+    "cards": [
+      {
+        "title": "Sayohat tajribalari",
+        "desc": "Did bilan ishlab chiqilgan sayohat marshrutlari orqali sizga mos, yuqori sifatli tajribalarni kashf eting. Mutaxassislar tomonidan tayyorlangan paketlar unutilmas sarguzashtlarni kafolatlaydi."
+      },
+      {
+        "title": "Eng yaxshi yo‘nalishlar",
+        "desc": "Qiziqishlaringiz va afzalliklaringizga moslashtirilgan individual sayohat rejalardan bahramand bo‘ling. Biz sizning sayohat orzularingizni aks ettiruvchi marshrutlar yaratamiz."
+      },
+      {
+        "title": "Tayyor marshrutlar",
+        "desc": "Bizning paketlarimiz qulaylik, sarguzasht va madaniy muhitni uyg‘unlashtirib, ajoyib sayohat tajribasini taqdim etadi."
+      }
+    ]
+  },
+  "planTrip": {
+    "title": "Orzuingizdagi sayohatni rejalashtiring",
+    "description": "Biz siz orzu qilgan sayohatga chiqishingizda har bir tafsilotga e’tibor beramiz. Madaniy hordiq, sarguzashtli ekspeditsiya yoki plyajdagi dam olish bo‘ladimi — sizga qulay va unutilmas sayohat tajribasini taqdim etamiz.",
+    "button": "Bog‘lanish",
+    "accordion": [
+      {
+        "title": "Professional gid xizmatlari",
+        "desc": "Bizning tajribali gidlarimiz chuqur bilim va mahalliy tajriba bilan ta’minlab, sayohatingizni ishonchli va mazmunli qiladi."
+      },
+      {
+        "title": "Moslashuvchan xizmatlar",
+        "desc": "Biz sizning xohishlaringizga mos ravishda rejalashtirish, jadval tuzish va shaxsiylashtirilgan sayohat yechimlarini taklif qilamiz."
+      },
+      {
+        "title": "24/7 Qo‘llab-quvvatlash",
+        "desc": "Bizning qo‘llab-quvvatlash jamoamiz sayohatingiz davomida sizga istalgan vaqtda yordam berish uchun doimo tayyor."
+      }
+    ]
+  }
+
 }
+
+

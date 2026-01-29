@@ -4,5 +4,77 @@
     "about": "About us",
     "contact": "Contact",
     "tours": "Tours"
+  },
+      "hero": {
+    "title": "Want to travel?",
+    "subtitle": "Turn your travel dreams into reality: plan, explore, and create unforgettable memories.",
+    "learnMore": "Learn more",
+    "form": {
+      "name": "Your name...",
+      "address": "Your address...",
+      "book": "Book a place"
+    }
+  },
+  "destinations": {
+    "sectionTitle": "Our popular destinations",
+    "sectionSubtitle": "Discover Dubai, Turkey, and Sharm El Sheikh with us",
+    "cards": [
+      {
+        "title": "Experience luxury in Dubai",
+        "subtitle": "A blend of city and desert",
+        "desc": "Enjoy Dubai’s towering skyscrapers, luxury shopping, and thrilling desert adventures. Explore a city that offers a unique combination of culture and extravagance."
+      },
+      {
+        "title": "Discover Turkish culture",
+        "subtitle": "Historical wonders and breathtaking views",
+        "desc": "Dive into Turkey’s fascinating history, from ancient ruins to lively bazaars. Enjoy delicious cuisine, stunning landscapes, and warm hospitality."
+      },
+      {
+        "title": "Relax in Sharm El Sheikh",
+        "subtitle": "Sun, sea, and tranquility",
+        "desc": "Visit Sharm El Sheikh’s beautiful beaches and coral reefs. Dive into crystal-clear waters and enjoy unforgettable relaxation in this tropical paradise."
+      }
+    ],
+    "buttons": {
+      "more": "LEARN MORE",
+      "book": "BOOK"
+    }
+  },
+   "services": {
+    "label": "Our services",
+    "title": "Explore with confidence",
+    "cards": [
+      {
+        "title": "Travel experiences",
+        "desc": "Discover well-designed travel itineraries offering high-quality experiences tailored to your preferences. Our expert-crafted packages guarantee unforgettable adventures."
+      },
+      {
+        "title": "Top routes",
+        "desc": "Enjoy fully personalized travel plans tailored to your unique interests and preferences. We specialize in creating trips that reflect your travel aspirations."
+      },
+      {
+        "title": "Ready-made itineraries",
+        "desc": "Our packages offer a seamless blend of convenience, adventure, and cultural immersion, providing an amazing travel experience."
+      }
+    ]
+  },
+  "planTrip": {
+    "title": "Plan your dream trip",
+    "description": "We take care of every detail as you embark on your dream journey. Whether it's a cultural escape, an adventurous expedition, or a beach retreat, we ensure a hassle-free and memorable travel experience.",
+    "button": "Contact",
+    "accordion": [
+      {
+        "title": "Expert guide services",
+        "desc": "Our professional guides provide in-depth knowledge and local insights, ensuring a confident and enriching travel experience."
+      },
+      {
+        "title": "Flexible services",
+        "desc": "We adapt to your preferences by offering flexible planning, scheduling, and personalized travel solutions."
+      },
+      {
+        "title": "24/7 Support",
+        "desc": "Our support team is available around the clock to assist you anytime during your journey."
+      }
+    ]
   }
 }
