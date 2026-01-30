@@ -11,31 +11,60 @@ const Hero = () => {
 
   return (
     <>
+    
       <section
+        data-aos="fade"
+        data-aos-duration="1000"
         className="relative w-full h-[650px] bg-cover bg-center"
         style={{ backgroundImage: `url(${heroBg})` }}
       >
+     
+     
         <div className="absolute inset-0 bg-black/30"></div>
 
         <div className="relative max-w-7xl mx-auto px-6 h-full flex items-center">
-          <div className="max-w-xl text-white">
-            <span className="block w-20 h-1 bg-blue-500 mb-6"></span>
+          <div
+            data-aos="fade-up"
+            data-aos-delay="200"
+            className="max-w-xl text-white"
+          >
+            <span
+              data-aos="fade-right"
+              data-aos-delay="300"
+              className="block w-20 h-1 bg-blue-500 mb-6"
+            ></span>
 
-            <h1 className="text-5xl font-light mb-6">
+            <h1
+              data-aos="fade-up"
+              data-aos-delay="400"
+              className="text-5xl font-light mb-6"
+            >
               {t("hero.title")}
             </h1>
 
-            <p className="text-lg leading-relaxed mb-8">
+            <p
+              data-aos="fade-up"
+              data-aos-delay="500"
+              className="text-lg leading-relaxed mb-8"
+            >
               {t("hero.subtitle")}
             </p>
 
-            <button className="bg-blue-500 text-white px-6 py-3 font-medium hover:bg-blue-600 transition">
+            <button
+              data-aos="zoom-in"
+              data-aos-delay="600"
+              className="bg-blue-500 text-white px-6 py-3 font-medium hover:bg-blue-600 transition"
+            >
               {t("hero.learnMore")}
             </button>
           </div>
         </div>
 
-        <div className="absolute left-1/2 -translate-x-1/2 -bottom-12 w-full px-6">
+        <div
+          data-aos="fade-up"
+          data-aos-delay="700"
+          className="absolute left-1/2 -translate-x-1/2 -bottom-12 w-full px-6"
+        >
           <form
             onSubmit={(e) => e.preventDefault()}
             className="max-w-6xl mx-auto flex flex-col md:flex-row bg-white rounded-md shadow-xl overflow-hidden"
@@ -66,14 +95,26 @@ const Hero = () => {
         </div>
       </section>
 
-      <div className="max-w-7xl mx-auto px-6 mt-40 md:mt-32 lg:mt-28 mb-10">
+      <div
+        data-aos="fade-up"
+        data-aos-delay="200"
+        className="max-w-7xl mx-auto px-6 mt-40 md:mt-32 lg:mt-28 mb-10"
+      >
         <ResponsiveCarousel />
       </div>
 
-      <Destinations />
+     
+      <div data-aos="fade-up">
+        <Destinations />
+      </div>
 
-      <Services />
-      <Accardion />
+      <div data-aos="fade-up">
+        <Services />
+      </div>
+
+      <div data-aos="fade-up">
+        <Accardion />
+      </div>
     </>
   );
 };
