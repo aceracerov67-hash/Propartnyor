@@ -76,6 +76,48 @@
         "desc": "Bizning qo‘llab-quvvatlash jamoamiz sayohatingiz davomida sizga istalgan vaqtda yordam berish uchun doimo tayyor."
       }
     ]
+  },
+  "pricing": {
+    "label": "Maxsus Takliflar",
+    "title": "O'zingiz orzu qilgan ta'tilni tanlang",
+    "plans": [
+      {
+        "tag": "Asosiy Sayohatchi",
+        "title": "Biz bilan bog'laning",
+        "type": "/individual",
+        "features": [
+          "Moslashtirilgan Sayohat Rejasi",
+          "Shakllantirilgan Manzil Qo'llanmalar",
+          "Mutaxassis Bilan Sayohat Muhokamasi",
+          "24/7 Xizmat Ko'rsatish",
+          "Moslashuvchan Narxlar"
+        ]
+      },
+      {
+        "tag": "Premium Sayohatchi",
+        "title": "Biz bilan bog'laning",
+        "type": "/individual",
+        "features": [
+          "Luks Mehmonxona Joylashuvi",
+          "Maxsus Tajribalar",
+          "Maxsus Yo'lboshlovchi",
+          "Moslashtirilgan Sayohat Paketlari",
+          "Muzokaralar uchun Narxlar"
+        ]
+      },
+      {
+        "tag": "Maksimal Sayohatchi",
+        "title": "Biz bilan bog'laning",
+        "type": "/individual",
+        "features": [
+          "VIP Sayohat Dasturi",
+          "Maxsus Lyuks Tajribalar",
+          "Moslashuvchan va Muzokaralar uchun Narxlar",
+          "Ajoyib Taassurotlar"
+        ]
+      }
+    ],
+    "button": "Bog'lanish"
   }
 
 }

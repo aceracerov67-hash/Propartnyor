@@ -76,5 +76,47 @@
         "desc": "Our support team is available around the clock to assist you anytime during your journey."
       }
     ]
+  },
+  "pricing": {
+    "label": "Special Offers",
+    "title": "Choose the vacation of your dreams",
+    "plans": [
+      {
+        "tag": "Basic Traveler",
+        "title": "Contact us",
+        "type": "/individual",
+        "features": [
+          "Customized Travel Plan",
+          "Prepared Destination Guides",
+          "Consultation with a Travel Expert",
+          "24/7 Customer Support",
+          "Flexible Pricing"
+        ]
+      },
+      {
+        "tag": "Premium Traveler",
+        "title": "Contact us",
+        "type": "/individual",
+        "features": [
+          "Luxury Hotel Accommodation",
+          "Exclusive Experiences",
+          "Personal Tour Guide",
+          "Customized Travel Packages",
+          "Negotiable Pricing"
+        ]
+      },
+      {
+        "tag": "Ultimate Traveler",
+        "title": "Contact us",
+        "type": "/individual",
+        "features": [
+          "VIP Travel Program",
+          "Exclusive Luxury Experiences",
+          "Flexible and Negotiable Pricing",
+          "Unforgettable Memories"
+        ]
+      }
+    ],
+    "button": "Contact"
   }
 }

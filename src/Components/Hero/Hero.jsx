@@ -6,6 +6,7 @@ import Destinations from "./Destinations/Destinations";
 import Services from "./Services/Services";
 import Accardion from "./Accardion/Accardion";
 import Video from "./Video/Video";
+import Pricing from "./Pricing/Pricing";
 
 const Hero = () => {
   const { t } = useTranslation();
@@ -118,6 +119,10 @@ const Hero = () => {
       </div>
       <div data-aos="fade-up">
         <Video />
+      </div>
+
+      <div data-aos="fade-up">
+        <Pricing />
       </div>
     </>
   );
