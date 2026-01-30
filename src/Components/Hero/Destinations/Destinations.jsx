@@ -12,10 +12,12 @@ const Destinations = () => {
   const cards = t("destinations.cards", { returnObjects: true });
 
   return (
+    
     <section
-      data-aos="fade-up"
-      data-aos-duration="800"
-      className="max-w-7xl mx-auto px-4 py-16"
+      id="about"
+  data-aos="fade-up"
+  data-aos-duration="800"
+  className="max-w-7xl mx-auto px-4 py-16"
     >
     
       <div className="text-center mb-12">

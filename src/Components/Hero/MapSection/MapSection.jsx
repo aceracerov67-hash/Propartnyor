@@ -5,7 +5,7 @@ const MapSection = () => {
   const { t } = useTranslation();
 
   return (
-    <section className="py-24">
+    <section id="contact" className="py-24">
       <div className="max-w-7xl mx-auto px-6">
 
        
