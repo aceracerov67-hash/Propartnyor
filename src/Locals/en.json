@@ -119,8 +119,8 @@
     ],
     "button": "Contact"
   },
-  "footer": {
-    "description": "Explore the world with us. Your best partner in travel planning",
+   "footer": {
+    "description": "Explore the world with us. Your best partner in organizing unforgettable journeys.",
     "linksTitle": "Useful Links",
     "linksLeft": [
       "Destinations",
@@ -135,13 +135,12 @@
       "Privacy Policy"
     ],
     "contactTitle": "Contact Information",
-    "contactText": "Get ready for your next journey and contact us for personal travel assistance and inquiries.",
+    "contactText": "Get ready for your next journey and contact us for personalized travel assistance and inquiries.",
     "phone": "Phone",
     "email": "Email",
     "address": "Address",
     "copyright": "All rights reserved"
   },
-  
 "map": {
     "subtitle": "Book your place with us!",
     "title": "Spend your vacation with us",

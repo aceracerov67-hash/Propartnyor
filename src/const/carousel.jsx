@@ -84,17 +84,15 @@ const ResponsiveCarousel = () => {
           key={index}
           className="relative h-[320px] p-5 overflow-hidden rounded-xl"
         >
-          {/* image */}
+  
           <img
             src={item.img}
             alt=""
             className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 hover:scale-110"
           />
-
-          {/* overlay */}
           <div className="absolute inset-0 bg-black/40"></div>
 
-          {/* content */}
+       
           <div className="relative z-10 flex flex-col h-full justify-end gap-1 text-white">
             <h4 className="text-[19px] font-medium tracking-wide">
               {t(item.title)}
