@@ -7,6 +7,7 @@ import Services from "./Services/Services";
 import Accardion from "./Accardion/Accardion";
 import Video from "./Video/Video";
 import Pricing from "./Pricing/Pricing";
+import MapSection from "./MapSection/MapSection";
 
 const Hero = () => {
   const { t } = useTranslation();
@@ -123,6 +124,10 @@ const Hero = () => {
 
       <div data-aos="fade-up">
         <Pricing />
+      </div>
+
+      <div data-aos="fade-up">
+        <MapSection />
       </div>
     </>
   );
