@@ -1,11 +1,14 @@
 import React from "react";
+import { useTranslation } from "react-i18next";
 
 const MapSection = () => {
+  const { t } = useTranslation();
+
   return (
-    <section className="py-24 bg-white">
+    <section className="py-24">
       <div className="max-w-7xl mx-auto px-6">
 
-      
+       
         <div
           data-aos="fade-up"
           data-aos-duration="900"
@@ -20,13 +23,14 @@ const MapSection = () => {
           ></iframe>
         </div>
 
+   
         <div className="text-center mt-16">
           <p
             data-aos="fade-up"
             data-aos-delay="100"
             className="text-blue-500 text-sm mb-3"
           >
-            Biz bilan o‘z joyingizni band qiling!
+            {t("map.subtitle")}
           </p>
 
           <h2
@@ -34,7 +38,7 @@ const MapSection = () => {
             data-aos-delay="200"
             className="text-3xl md:text-4xl font-semibold mb-8"
           >
-            Ta'tilingizni biz bilan o‘tkazing
+            {t("map.title")}
           </h2>
 
           <button
@@ -43,7 +47,7 @@ const MapSection = () => {
             className="bg-blue-500 text-white px-10 py-3 rounded-md
                        font-medium transition hover:bg-blue-600"
           >
-            Joy Band Qilish
+            {t("map.button")}
           </button>
         </div>
 

@@ -118,5 +118,33 @@
       }
     ],
     "button": "Contact"
+  },
+  "footer": {
+    "description": "Explore the world with us. Your best partner in travel planning",
+    "linksTitle": "Useful Links",
+    "linksLeft": [
+      "Destinations",
+      "Tours",
+      "Special Offers",
+      "Customer Reviews"
+    ],
+    "linksRight": [
+      "Blog",
+      "Contact Us",
+      "About Us",
+      "Privacy Policy"
+    ],
+    "contactTitle": "Contact Information",
+    "contactText": "Get ready for your next journey and contact us for personal travel assistance and inquiries.",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "copyright": "All rights reserved"
+  },
+  
+"map": {
+    "subtitle": "Book your place with us!",
+    "title": "Spend your vacation with us",
+    "button": "Book now"
   }
 }

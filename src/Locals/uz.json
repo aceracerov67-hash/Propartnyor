@@ -118,6 +118,33 @@
       }
     ],
     "button": "Bog'lanish"
+  },
+  "footer": {
+    "description": "Biz bilan dunyoni zabt eting. Sayohat tashkil qilishda eng yaxshi hamkoringiz",
+    "linksTitle": "Foydali Havolalar",
+    "linksLeft": [
+      "Manzillar",
+      "Turlar",
+      "Maxsus Takliflar",
+      "Mijoz Fikrlari"
+    ],
+    "linksRight": [
+      "Blog",
+      "Biz bilan Aloqa",
+      "Biz Haqimizda",
+      "Maxfiylik Siyosati"
+    ],
+    "contactTitle": "Aloqa Ma'lumoti",
+    "contactText": "Keyingi sayohatingizga tayyor bo‘lib, shaxsiy sayohat yordam va so‘rovnoma uchun biz bilan bog‘laning.",
+    "phone": "Telefon",
+    "email": "Email",
+    "address": "Manzil",
+    "copyright": "Barcha huquqlar himoyalangan"
+  },
+  "map": {
+    "subtitle": "Biz bilan o‘z joyingizni band qiling!",
+    "title": "Ta'tilingizni biz bilan o‘tkazing",
+    "button": "Joy band qilish"
   }
 
 }
