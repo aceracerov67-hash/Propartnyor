@@ -5,6 +5,7 @@ import ResponsiveCarousel from "../../const/carousel";
 import Destinations from "./Destinations/Destinations";
 import Services from "./Services/Services";
 import Accardion from "./Accardion/Accardion";
+import Video from "./Video/Video";
 
 const Hero = () => {
   const { t } = useTranslation();
@@ -114,6 +115,9 @@ const Hero = () => {
 
       <div data-aos="fade-up">
         <Accardion />
+      </div>
+      <div data-aos="fade-up">
+        <Video />
       </div>
     </>
   );
