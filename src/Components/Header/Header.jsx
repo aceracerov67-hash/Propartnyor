@@ -10,7 +10,7 @@ const Header = () => {
     <header
       data-aos="fade-down"
       data-aos-duration="800"
-      className="w-full h-[70px] flex items-center justify-between px-6 md:px-10
+      className="bg-white w-full h-[70px] flex items-center justify-between px-6 md:px-10
                  shadow-[0_8px_20px_rgba(0,0,0,0.12)]
                  sticky top-0 bg-blue-200 z-50"
     >

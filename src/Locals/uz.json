@@ -145,6 +145,22 @@
     "subtitle": "Biz bilan o‘z joyingizni band qiling!",
     "title": "Ta'tilingizni biz bilan o‘tkazing",
     "button": "Joy band qilish"
+  },
+  "zapros": {
+    "title": "Ro'yxatdan o'tish",
+    "subtitle": "Ma'lumotlaringizni qoldiring, biz siz bilan bog‘lanamiz",
+    "name": "Ism",
+    "lastname": "Familiya",
+    "phone": "Telefon raqam",
+    "button": "Jo'natish",
+    "loading": "Yuborilmoqda...",
+    "commentLabel": "Sayohat haqidagi rejalaringiz",
+    "commentPlaceholder": "Masalan: Istanbul 5 kun, 2 kishi, mart oyida...",
+    "alertFill": "Iltimos, barcha majburiy maydonlarni to‘ldiring!",
+    "alertSuccess": "So‘rov yuborildi!",
+    "alertError": "Xatolik yuz berdi!",
+    "noComment": "Izoh qoldirilmadi",
+    "telegramTitle": "Yangi sayohat so‘rovi"
   }
 
 }

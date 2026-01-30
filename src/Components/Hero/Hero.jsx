@@ -8,6 +8,7 @@ import Accardion from "./Accardion/Accardion";
 import Video from "./Video/Video";
 import Pricing from "./Pricing/Pricing";
 import MapSection from "./MapSection/MapSection";
+import Zapros from "./Zapros/Zapros";
 
 const Hero = () => {
   const { t } = useTranslation();
@@ -129,6 +130,10 @@ const Hero = () => {
 
       <div data-aos="fade-up">
         <MapSection />
+      </div>
+
+      <div data-aos="fade-up">
+        <Zapros />
       </div>
     </>
   );

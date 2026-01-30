@@ -145,5 +145,21 @@
     "subtitle": "Book your place with us!",
     "title": "Spend your vacation with us",
     "button": "Book now"
+  },
+  "zapros": {
+    "title": "Registration",
+    "subtitle": "Leave your details and we will contact you",
+    "name": "First name",
+    "lastname": "Last name",
+    "phone": "Phone number",
+    "button": "Send",
+    "loading": "Sending...",
+    "commentLabel": "Your travel plans",
+    "commentPlaceholder": "For example: Istanbul for 5 days, 2 people, in March...",
+    "alertFill": "Please fill in all required fields!",
+    "alertSuccess": "Request sent successfully!",
+    "alertError": "An error occurred!",
+    "noComment": "No comment provided",
+    "telegramTitle": "New travel request"
   }
 }
