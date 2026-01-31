@@ -17,7 +17,7 @@ const Hero = () => {
     <>
     
       <section
-      id="home"
+     
         data-aos="fade"
         data-aos-duration="1000"
         className="relative w-full h-[650px] bg-cover bg-center"

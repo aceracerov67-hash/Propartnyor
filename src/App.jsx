@@ -11,7 +11,7 @@ AOS.init({
 });
   return (
    <>
-    <div className="min-h-screen">
+    <div  id="home" className="min-h-screen">
       <div className="container mx-auto">
         <div className="bg-blue-500/20 rounded-xl">
           <Layout />
